@@ -8,7 +8,7 @@ There are different types of ANN Models used in these files.
 Best accuracy results were obtained from the Levenbergh- Marquardt Backpropagation Algorithm.
 The results from all the files havebeen compiled and is uploaded as a pdf file.
 
-##WORK FLOW
+## WORK FLOW
 * **REQUIREMENTS:**
 This project requires the extraction of features from the EEG data signals. In python, this
 part can be done using an open source library ‘pyeeg’. The EEG signals are decomposed
@@ -39,3 +39,5 @@ training set and 20% is the test set.
 6. ANN using Sigmoid Activation Function using Cross Validation.
 The Accuracies of the models are then displayed using the graph and stored in an excel
 file.
+
+![Diagram](https://github.com/lasnabunan/Epileptic-Classification/blob/master/WORK%20FLOW.png)
